@@ -14,7 +14,7 @@
 ## https://github.com/datitran/object_detector_app/blob/master/object_detection_app.py
 
 ## but I changed it to make it more understandable to me.
-
+##zzg
 # Import packages
 import os
 import cv2
